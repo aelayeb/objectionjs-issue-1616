@@ -11,4 +11,5 @@ A working MySQL/MariaDB database
 # Install
 - Import draft.sql into your database server
 - Adjust connection string in index.js:3 according to your setup
+- Execute `npm install`
 - Execute `nodejs index.js`
